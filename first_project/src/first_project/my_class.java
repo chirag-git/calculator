@@ -64,6 +64,7 @@ public class my_class implements my_interface {
 		default:
 			break;
 		}
+		//here is the change 
 
 	}
 

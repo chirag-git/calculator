@@ -1,0 +1,10 @@
+package first_project;
+
+public interface my_interface {
+	public int add(int a,int b);
+	public int subtract(int a,int b);
+	public int multiply(int a,int b);
+	public int divide(int a,int b)throws ArithmeticException;
+	
+
+}
